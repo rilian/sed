@@ -1,25 +1,30 @@
 #### Metaprogramming
 > Metaprogramming is the writing of computer programs with the ability to treat programs as their data. It means that a program could be designed to read, generate, analyse and/or transform other programs, and even modify itself while running.
 * example..
+--------------
 
 #### REST
 > Representational state transfer;
 * example..
+--------------
 
 #### SOAP
 > Simple object access protocol;
 * example..
+--------------
 
 #### SOLID
-> S: A class should have only one reason to change.
-> O: Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
-> L: Child classes should never break the parent class' type definitions.
-> I:
-> D: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+> * S: A class should have only one reason to change.
+> * O: Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+> * L: Child classes should never break the parent class' type definitions.
+> * I:
+> * D: High-level modules should not depend on low-level modules. Both should depend on abstractions.
      Abstractions should not depend upon details. Details should depend upon abstractions.
 
-? Service oriented architecture
-- Service-oriented architecture (SOA) is an evolution of distributed computing based on the request/reply design paradigm for synchronous and asynchronous applications.
+#### Service oriented architecture
+> Service-oriented architecture (SOA) is an evolution of distributed computing based on the request/reply design paradigm for synchronous and asynchronous applications.
+* example..
+--------------
 
 
 Basic
