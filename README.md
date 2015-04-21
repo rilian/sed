@@ -3,8 +3,15 @@ Software Engineering Definitions
 
 #### In progress
 
--- Basic termynology
--- Ruby
--- Databases
--- Rails
--- Frontend
+* — Basic termynology
+* — Ruby
+* — Databases
+* — Rails
+* — Frontend
+
+###### Example:
+
+#### Question;
+> Description...;
+* Example;
+--------------
