@@ -63,6 +63,3 @@ Multitenancy
 
 
 http://www.slideshare.net/tardate/multitenancy-with-rails
-
-Dispatch: https://hackpad.com/ep/pad/static/9nJ4XusVtmv
-DataXu:   https://hackpad.com/ep/pad/static/7azeb2PQlw8
